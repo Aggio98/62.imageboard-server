@@ -1,7 +1,6 @@
 {
   "name": "imageboard-server",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -14,5 +13,14 @@
     "pg": "^8.8.0",
     "sequelize": "^6.25.3",
     "sequelize-cli": "^6.5.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aggio98/62.imageboard-server.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Aggio98/62.imageboard-server/issues"
+  },
+  "homepage": "https://github.com/Aggio98/62.imageboard-server#readme",
+  "description": ""
 }
